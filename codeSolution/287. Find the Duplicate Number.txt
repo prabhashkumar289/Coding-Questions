@@ -22,8 +22,10 @@ Example 4:
 
 Input: nums = [1,1,2]
 Output: 1
-
-Let's Code----------------------------------------
+Approach1 [sort the array and traverse entire array and find duplicate]
+Approach2 [ Haching]
+Approach3 [slow and fast pointer or rabit and tortise method]
+Let's Code----------------------------------------By Approach3------------------------------------------
 
 class Solution {
 public:
